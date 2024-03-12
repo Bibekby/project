@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    height: 75px;
+    line-height: 75px;
+    padding: 0px 100px;
+    position: absolute;
+    background-image: linear-gradient(#033747,#012733);
+}
+nav .logo img{
+    float: left;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;    
+}
+nav li{
+    float: left;
+}
+nav li a{
+    font-size: 10px;
+    text-transform: uppercase;
+    padding: 0px 30px;
+    color: rgb(0, 187, 255);
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+nav li a:hover{
+    color: #ff8c69;
+    transition: all 0.4s ease 0s;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    }
+    .background {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-image: url();
+        background-size: cover;
+      }
+      
+      .video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+ #bibek{
+    margin: 150px;
+    position: absolute;
+    color: aqua;
+    text-align: center;
+ }
+ #how{
+    margin: 200px;
+    position: absolute;
+    color: yellow;
+ }
+ #Now{
+    margin: 400px;
+    position: absolute;
+    color: aqua;
+    right: 750px;
+ }
+ #hello{
+    margin: 450px;
+    position: absolute;
+    color: yellow;
+    right: 5px;
+ }
+ table{
+    border-radius: 30;
+    width: 50%;
+    border: 5px solid #fd1d86;
+    border-radius: 20px;
+    overflow: hidden;
+ } 
+ #interest{
+    margin: 600px;
+    position: absolute;
+    color: aqua;
+    right: 583px;
+ }
+ h3{
+    margin: 650px;
+    position: absolute;
+    color: yellow;
+    right: 430px;
+ }
+ .bottom-image {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 5%;
+}
+.bottom-imagee {
+    position: absolute;
+    bottom: -17px;
+    top: ;
+    left: 50px;
+    width: 5%;
+}
+.bottom-imageee  {
+    position: absolute;
+    bottom: 3px;
+    top: ;
+    left: 120px;
+    width: 3%;
+}
+ 
